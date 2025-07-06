@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "650465264064",
+    "project_id": "notetaking-app-1a046",
+    "storage_bucket": "notetaking-app-1a046.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650465264064:android:91fd27c9f9a55d444e8825",
+        "android_client_info": {
+          "package_name": "com.branice.notes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyqeLqz-xpwzlYOon-K2GNJq0THb6PkGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
